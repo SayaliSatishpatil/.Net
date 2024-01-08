@@ -1,0 +1,12 @@
+@using EstoreWebApp.Models;
+<h1> Product Names</h1>
+<hr/>
+@{
+    List<Product>products=(List<Product>)ViewData["products"];
+        foreach(Product p in products){
+            <p>@p.Name</p>
+        }
+
+}
+
+

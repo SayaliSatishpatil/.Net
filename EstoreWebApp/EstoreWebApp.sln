@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoreWebApp", "EstoreWebApp.csproj", "{7B44C07E-ADD7-421A-ADD8-55DDB6952B38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B44C07E-ADD7-421A-ADD8-55DDB6952B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B44C07E-ADD7-421A-ADD8-55DDB6952B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B44C07E-ADD7-421A-ADD8-55DDB6952B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B44C07E-ADD7-421A-ADD8-55DDB6952B38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838360B4-CCF1-40E4-9CD5-F4F87A054FF9}
+	EndGlobalSection
+EndGlobal
